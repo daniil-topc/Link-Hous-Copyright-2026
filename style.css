@@ -63,6 +63,11 @@ html {
   align-items: center;
 }
 
+.nav a {
+  text-decoration: none;
+}
+
+
 .card__koshik {
   width: 24px;
   height: 24px;
@@ -500,3 +505,4 @@ sup {
 .footer-menu__item:not(:last-child) {
   margin-bottom: 6px;
 }
+
